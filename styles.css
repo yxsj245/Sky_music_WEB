@@ -2,30 +2,32 @@ html,
 body {
     height: 100%;
     margin: 0;
-    overflow: hidden;
-    /* 防止滚动条显示 */
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* 确保页脚在内容较少时推至底部 */
     background-image: url('sky_totr_blog-header.webp');
-    /* 替换为你的背景图片路径 */
     background-size: cover;
-    /* 让背景图覆盖整个页面 */
     background-position: center;
-    /* 让背景图居中显示 */
     background-repeat: no-repeat;
-    /* 避免背景图重复 */
     color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    flex-grow: 1;
+    /* 让主内容区域自动扩展以占据剩余空间 */
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    /* 使伪元素定位相对于 body */
-    min-height: 100vh;
-    /* 确保背景图至少填充整个视口 */
 }
 
 body::before {
@@ -36,18 +38,12 @@ body::before {
     width: 100%;
     height: 100%;
     background: rgba(255, 255, 255, 0.3);
-    /* 胶囊效果的背景色（半透明白色） */
     backdrop-filter: blur(10px);
-    /* 设置毛玻璃效果 */
     z-index: -1;
-    /* 使伪元素在背景图片下方 */
 }
 
-
-/* 调整 canvas 的 z-index 以确保粒子效果在所有元素上方显示 */
-
 canvas#particleCanvas {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -192,29 +188,16 @@ nav ul li:hover {
 /* 页脚样式 */
 
 footer {
-    margin-top: 40px;
-    font-size: 0.9em;
-    color: #666;
-}
-
-
-/* 页脚样式 */
-
-footer {
-    position: absolute;
-    bottom: 0;
     width: 100%;
     text-align: center;
-    padding: 1px;
+    padding: 10px;
     font-size: 0.9em;
     color: #666;
     background: rgba(255, 255, 255, 0.7);
-    /* 胶囊效果的背景色 */
     border-top: 1px solid #ddd;
-    border-radius: 10px 10px 0 0;
-    /* 上边角圆润 */
     box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
     z-index: 10;
+    position: relative;
 }
 
 
@@ -239,7 +222,7 @@ header input[type="text"] {
     font-size: 0.55em;
     /* 字体大小调整 */
     width: 40%;
-    max-width: 280px;
+    max-width: 100px;
     /* 最大宽度 */
     border: 1px solid #ddd;
     /* 较浅的边框色 */
