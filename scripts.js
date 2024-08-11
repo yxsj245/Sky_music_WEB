@@ -38,8 +38,8 @@ function showMusicList(category, subcategoryName) {
 
         const download = document.createElement('a');
         download.href = score.download;
-        download.textContent = '下载乐谱';
-        download.download = score.title + '.txt'; // 设置文件名，确保下载而不是打开
+        download.textContent = '打开乐谱';
+        download.download = score.title + '.json'; // 设置文件名，确保下载而不是打开
 
         div.appendChild(cover);
         div.appendChild(title);
@@ -154,7 +154,7 @@ function filterMusic() {
 
                     const download = document.createElement('a');
                     download.href = score.download;
-                    download.textContent = '下载乐谱';
+                    download.textContent = '打开乐谱';
 
                     div.appendChild(cover);
                     div.appendChild(title);
