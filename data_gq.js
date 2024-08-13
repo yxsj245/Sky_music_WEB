@@ -54,7 +54,8 @@ const data = {
             {
                 name: "欢快",
                 scores: [
-                    { author: "作者:Sky光遇琴谱_瞳", title: "孤勇者", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%AC%A2%E5%BF%AB%E6%AD%8C%E6%9B%B2/%E5%AD%A4%E5%8B%87%E8%80%85.txt", authorLink: "https://www.bilibili.com/video/BV1YY4y1Y7iK/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" }
+                    { author: "作者:Sky光遇琴谱_瞳", title: "孤勇者", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%AC%A2%E5%BF%AB%E6%AD%8C%E6%9B%B2/%E5%AD%A4%E5%8B%87%E8%80%85.txt", authorLink: "https://www.bilibili.com/video/BV1YY4y1Y7iK/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" },
+                    { author: "作者:未知", title: "心如止水", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%AC%A2%E5%BF%AB%E6%AD%8C%E6%9B%B2/%E5%BF%83%E5%A6%82%E6%AD%A2%E6%B0%B4.txt", authorLink: "" },
                 ]
             },
             {
@@ -77,6 +78,7 @@ const data = {
                     { author: "作者:未知", title: "星际穿越", cover: "https://imgos.cn/2024/08/11/66b8ba75a928c.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E7%BA%AF%E9%9F%B3%E4%B9%90/%E6%AC%A2%E5%BF%AB/%E6%98%9F%E9%99%85%E7%A9%BF%E8%B6%8A.json", authorLink: "" },
                     { author: "作者:未知", title: "猪八戒背媳妇", cover: "https://imgos.cn/2024/08/11/66b8bf0384d14.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E7%BA%AF%E9%9F%B3%E4%B9%90/%E6%AC%A2%E5%BF%AB/%E7%8C%AA%E5%85%AB%E6%88%92%E8%83%8C%E5%AA%B3%E5%A6%87.json", authorLink: "" },
                     { author: "作者:Sky光遇琴谱_瞳", title: "He's A Pirate-加勒比海盗", cover: "https://imgos.cn/2024/08/12/66b9a9006c82b.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E7%BA%AF%E9%9F%B3%E4%B9%90/%E6%AC%A2%E5%BF%AB/'s%20A%20Pirate(%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7%E7%9B%97).txt", authorLink: "" },
+                    { author: "作者:未知", title: "气象站台", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E7%BA%AF%E9%9F%B3%E4%B9%90/%E6%AC%A2%E5%BF%AB/%E6%B0%94%E8%B1%A1%E7%AB%99%E5%8F%B0.txt", authorLink: "" },
 
                 ]
             },
@@ -140,7 +142,7 @@ const data = {
         subcategories: [{
                 name: "原神",
                 scores: [
-
+                    { author: "作者:未知", title: "主题曲", cover: "https://imgos.cn/2024/08/13/66bacb9754ab8.png", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E5%8E%9F%E7%A5%9E/%E5%8E%9F%E7%A5%9E%E4%B8%BB%E9%A2%98%E6%9B%B2.txt", authorLink: "" },
                 ]
             },
             {
