@@ -1,3 +1,5 @@
+/* 默认样式（桌面版） */
+
 html,
 body {
     height: 100%;
@@ -11,7 +13,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    /* 确保页脚在内容较少时推至底部 */
     background-image: url('https://imgos.cn/2024/08/11/66b8c7b6ad7f8.jpg');
     background-size: cover;
     background-position: center;
@@ -23,7 +24,6 @@ body {
 
 main {
     flex-grow: 1;
-    /* 让主内容区域自动扩展以占据剩余空间 */
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -58,7 +58,7 @@ header {
     text-align: center;
     margin-top: 30px;
     margin-bottom: 20px;
-    font-size: 2em;
+    font-size: 1.7em;
     color: #007ACC;
     text-shadow: 1px 1px 2px #aaa;
 }
@@ -123,7 +123,6 @@ nav ul li:hover {
     margin: 10px 15px;
     padding: 10px 15px;
     background-color: rgba(230, 240, 255, 0.9);
-    /* 半透明背景 */
     border-radius: 8px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     cursor: pointer;
@@ -147,7 +146,6 @@ nav ul li:hover {
     margin: 20px;
     padding: 15px;
     background-color: rgba(255, 255, 255, 0.9);
-    /* 半透明背景 */
     border-radius: 10px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
     width: 200px;
@@ -200,43 +198,22 @@ footer {
 }
 
 
-/* 头部样式 */
-
-header {
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: 20px;
-    font-size: 1.7em;
-    color: #007ACC;
-    text-shadow: 1px 1px 2px #aaa;
-}
-
-
 /* 搜索框样式 */
 
 header input[type="text"] {
     margin-top: 10px;
     padding: 5px 12px;
-    /* 内边距调整 */
     font-size: 0.55em;
-    /* 字体大小调整 */
     width: 40%;
     max-width: 100px;
-    /* 最大宽度 */
     border: 1px solid #ddd;
-    /* 较浅的边框色 */
     border-radius: 20px;
-    /* 圆角 */
     background-color: rgba(255, 255, 255, 0.8);
-    /* 初始背景色的透明度 */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    /* 更细致的阴影 */
     outline: none;
     transition: all 0.3s ease;
     color: #333;
-    /* 输入文本颜色 */
     opacity: 0.9;
-    /* 初始透明度 */
 }
 
 
@@ -245,9 +222,7 @@ header input[type="text"] {
 header input[type="text"]:hover {
     width: 70%;
     max-width: 320px;
-    /* 扩展最大宽度 */
     opacity: 1;
-    /* 鼠标悬停时完全不透明 */
 }
 
 
@@ -255,15 +230,51 @@ header input[type="text"]:hover {
 
 header input[type="text"]:focus {
     border-color: #007ACC;
-    /* 聚焦时边框颜色 */
     box-shadow: 0 3px 6px rgba(0, 122, 204, 0.3);
-    /* 聚焦时的阴影效果 */
     background-color: #fff;
-    /* 聚焦时的背景颜色 */
     color: #000;
-    /* 聚焦时的文本颜色 */
     padding: 6px 12px;
-    /* 聚焦时稍微增加内边距 */
     opacity: 1;
-    /* 完全不透明 */
+}
+
+
+/* 手机屏幕适配 */
+
+@media only screen and (max-width: 600px) {
+    header {
+        font-size: 1.5em;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    nav ul li {
+        margin: 0 5px;
+        padding: 8px 10px;
+        font-size: 1em;
+    }
+    #subcategory-list li {
+        margin: 5px 10px;
+        padding: 8px 10px;
+        font-size: 0.9em;
+    }
+    #music-list {
+        flex-direction: column;
+    }
+    .music-item {
+        margin: 10px;
+        padding: 10px;
+        width: 90%;
+        box-sizing: border-box;
+    }
+    .music-item img {
+        width: 100%;
+    }
+    footer {
+        font-size: 0.8em;
+        padding: 8px;
+    }
+    header input[type="text"] {
+        width: 60%;
+        font-size: 0.9em;
+        padding: 8px 15px;
+    }
 }
