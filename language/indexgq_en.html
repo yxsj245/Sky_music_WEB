@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sky Music score</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>、
+
+<body>
+    <canvas id="particleCanvas"></canvas>
+    <header>
+        <h1>Sky Music score (piano)</h1>
+        <input type="text" id="search" placeholder="Search for sheet music" oninput="filterMusic()">
+    </header>
+
+    <main>
+        <nav>
+            <ul id="main-categories">
+                <li onclick="showSubcategories('sky-bgm')">Sky Background Music</li>
+                <li onclick="showSubcategories('songs')">song</li>
+                <li onclick="showSubcategories('instrumental')">absolute music</li>
+                <li onclick="showSubcategories('festival')">Special days</li>
+                <li onclick="showSubcategories('gamebgm')">Other games BGM</li>
+            </ul>
+        </nav>
+
+        <section id="subcategories" class="hidden">
+            <ul id="subcategory-list"></ul>
+        </section>
+
+        <section id="music-list" class="hidden">
+            <!-- 乐谱信息将会显示在这里 -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Sky音乐谱子. All rights reserved.</p>
+        <p>
+            <a href="https://github.com/yxsj245/Sky_music_WEB " target="_blank ">github Open source address</a>
+            <a href="https://picui.cn/share/I2uXy1imuJC0">Music score download tutorial</a>
+        </p>
+        <p>
+            1.If importing into Studio software, please change the suffix to txt. The automatic piano playing script needs to change the corresponding suffix name according to the script instructions.
+            <br> 2.The first visit requires pulling the sheet music JS file from the CloudFlare network, which may result in a short-term inability to click. You can wait a few seconds and try again.
+        </p>
+        <p>This website is created by
+            <a href="https://www.cloudflare.com/zh-cn/" target="_blank ">cloudflare</a>Provide global network services
+        </p>
+    </footer>
+
+    <script src="scripts.js"></script>
+    <script src="./data_gq_en.js"></script>
+    <!-- 引入粒子效果的脚本 -->
+</body>
+
+</html>
