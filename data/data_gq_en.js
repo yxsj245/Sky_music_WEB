@@ -49,6 +49,8 @@ const data = {
                     { author: "author:Sky光遇琴谱_瞳", title: "告白气球", cover: "https://imgos.cn/2024/08/12/66b97e7bb6c7d.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E8%BD%BB%E6%9D%BE%E6%AD%8C%E6%9B%B2/%E5%91%8A%E7%99%BD%E6%B0%94%E7%90%83.txt", authorLink: "https://www.bilibili.com/video/BV1if4y1a7T9/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" },
                     { author: "author:Sky光遇琴谱_瞳", title: "小情歌", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E8%BD%BB%E6%9D%BE%E6%AD%8C%E6%9B%B2/%E5%B0%8F%E6%83%85%E6%AD%8C%EF%BC%88%E8%AF%AD%E7%9E%B3%EF%BC%89.txt", authorLink: "https://www.bilibili.com/video/BV1Qy4y147BD/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" },
                     { author: "author:丶又菜又爱玩", title: "听我说谢谢你", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E8%BD%BB%E6%9D%BE%E6%AD%8C%E6%9B%B2/%E5%90%AC%E6%88%91%E8%AF%B4%E8%B0%A2%E8%B0%A2%E4%BD%A0.txt", authorLink: "https://www.bilibili.com/video/BV1Yf4y1L77U/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" },
+                    { author: "author:fghgghg", title: "知我", cover: "https://img.picui.cn/free/2024/08/18/66c155ee3508e.png", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E7%94%B5%E5%BD%B1%E4%B8%BB%E9%A2%98%E6%9B%B2/%E7%9F%A5%E6%88%91.txt", authorLink: "https://www.bilibili.com/video/BV14e411w7by/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
+
                 ]
             },
             {

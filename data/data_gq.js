@@ -32,6 +32,7 @@ const data = {
                     { author: "作者:𝐚𝐮𝐭𝐢𝐳𝐳𝟐.", title: "起风了", cover: "https://imgos.cn/2024/08/12/66b989d245133.jpg", download: "https://xiaozhux.lanzoub.com/iokhj27ol67i", authorLink: "https://sky.wtfxxj.top/" },
                     { author: "作者:Sky光遇琴谱_瞳", title: "你从未离去", cover: "https://imgos.cn/2024/08/12/66b9a736d9cb1.jpg", download: "https://xiaozhux.lanzoub.com/i19JH27ol65g", authorLink: "https://www.bilibili.com/video/BV1ei4y1C7qP/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" },
                     { author: "作者:Sky光遇琴谱_瞳", title: "笼", cover: "https://imgos.cn/2024/08/12/66b9aba123e2d.jpg", download: "https://xiaozhux.lanzoub.com/i4voN27ol63e", authorLink: "https://www.bilibili.com/video/BV1VX4y1W7KH/?share_source=copy_web" },
+                    { author: "作者:fghgghg", title: "知我", cover: "https://img.picui.cn/free/2024/08/18/66c155ee3508e.png", download: "https://xiaozhux.lanzoub.com/iYXbj27q0drg", authorLink: "https://www.bilibili.com/video/BV14e411w7by/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
                 ]
             },
             {
