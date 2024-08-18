@@ -11,9 +11,10 @@ const data = {
             {
                 name: "Other music",
                 scores: [
-                    { author: "author：unknown", title: "hidden forest", cover: "https://imgos.cn/2024/08/11/66b8bbcd8ae4f.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E5%85%89%E9%81%87BGM/%E5%85%B6%E5%AE%83/%E9%9B%A8%E6%9E%97.json", authorLink: "author链接" },
+                    { author: "author：unknown", title: "Waltzing in the Rain", cover: "https://imgos.cn/2024/08/11/66b8bbcd8ae4f.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E5%85%89%E9%81%87BGM/%E5%85%B6%E5%AE%83/%E9%9B%A8%E6%9E%97.json", authorLink: "author链接" },
                     { author: "author：Starrr_光遇", title: "Season of Revival", cover: "https://imgos.cn/2024/08/11/66b8bbcd8ae4f.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E7%94%B5%E5%BD%B1%E4%B8%BB%E9%A2%98%E6%9B%B2/%E5%86%8D%E8%A7%81%E6%B7%B1%E6%B5%B7.json", authorLink: "https://www.bilibili.com/video/BV1ue411R7YZ/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" },
-                    { author: "author：Hokubu-", title: "eden", cover: "https://imgos.cn/2024/08/11/66b8bbcd8ae4f.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E5%85%89%E9%81%87BGM/%E5%85%B6%E5%AE%83/%E9%87%8D%E7%94%9F%E4%B9%8B%E8%B7%AF%EF%BC%88%E5%89%8D%E6%AE%B5%EF%BC%89.json", authorLink: "https://www.bilibili.com/video/BV1hh411m7Nz/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" }
+                    { author: "author：Hokubu-", title: "Flight", cover: "https://imgos.cn/2024/08/11/66b8bbcd8ae4f.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E5%85%89%E9%81%87BGM/%E5%85%B6%E5%AE%83/%E9%87%8D%E7%94%9F%E4%B9%8B%E8%B7%AF%EF%BC%88%E5%89%8D%E6%AE%B5%EF%BC%89.json", authorLink: "https://www.bilibili.com/video/BV1hh411m7Nz/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" },
+                    { author: "author：𝐚𝐮𝐭𝐢𝐳𝐳𝟐.", title: "An Upwards Dance", cover: "https://imgos.cn/2024/08/11/66b8bbcd8ae4f.jpg", download: "https://xiaozhux.lanzoub.com/iYDJq27rqrlg", authorLink: "https://sky.wtfxxj.top/" },
                 ]
             },
             // 可以无限添加小类别

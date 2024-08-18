@@ -13,7 +13,8 @@ const data = {
                 scores: [
                     { author: "作者：未知", title: "雨林", cover: "https://imgos.cn/2024/08/11/66b8bbcd8ae4f.jpg", download: "https://xiaozhux.lanzoub.com/iPRhq27okldi", authorLink: "作者链接" },
                     { author: "作者：Starrr_光遇", title: "云巢小镇|Season of Revival", cover: "https://imgos.cn/2024/08/11/66b8bbcd8ae4f.jpg", download: "https://xiaozhux.lanzoub.com/iSzs227oklej", authorLink: "https://www.bilibili.com/video/BV1ue411R7YZ/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" },
-                    { author: "作者：Hokubu-", title: "重生之路", cover: "https://imgos.cn/2024/08/11/66b8bbcd8ae4f.jpg", download: "https://xiaozhux.lanzoub.com/iIcCi27oklfa", authorLink: "https://www.bilibili.com/video/BV1hh411m7Nz/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" }
+                    { author: "作者：Hokubu-", title: "重生之路", cover: "https://imgos.cn/2024/08/11/66b8bbcd8ae4f.jpg", download: "https://xiaozhux.lanzoub.com/iIcCi27oklfa", authorLink: "https://www.bilibili.com/video/BV1hh411m7Nz/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" },
+                    { author: "作者：𝐚𝐮𝐭𝐢𝐳𝐳𝟐.", title: "禁阁楼顶曲", cover: "https://imgos.cn/2024/08/11/66b8bbcd8ae4f.jpg", download: "https://xiaozhux.lanzoub.com/iYDJq27rqrlg", authorLink: "https://sky.wtfxxj.top/" },
                 ]
             },
             // 可以无限添加小类别
