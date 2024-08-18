@@ -59,7 +59,8 @@ const data = {
                     { author: "author:Sky光遇琴谱_瞳", title: "孤勇者", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%AC%A2%E5%BF%AB%E6%AD%8C%E6%9B%B2/%E5%AD%A4%E5%8B%87%E8%80%85.txt", authorLink: "https://www.bilibili.com/video/BV1YY4y1Y7iK/?share_source=copy_web&vd_source=6fdda38be5eb9fcf9f074fd04e9bf9ae" },
                     { author: "author:unknown", title: "心如止水", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%AC%A2%E5%BF%AB%E6%AD%8C%E6%9B%B2/%E5%BF%83%E5%A6%82%E6%AD%A2%E6%B0%B4.txt", authorLink: "" },
                     { author: "author:𝐚𝐮𝐭𝐢𝐳𝐳𝟐.", title: "悬溺", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%AC%A2%E5%BF%AB%E6%AD%8C%E6%9B%B2/%E6%82%AC%E6%BA%BAjs.txt", authorLink: "https://sky.wtfxxj.top/" },
-
+                    { author: "author:sky荼苏.", title: "Duvet", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%AC%A2%E5%BF%AB%E6%AD%8C%E6%9B%B2/Duvet%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89.txt", authorLink: "https://www.bilibili.com/video/BV1oN411Y788/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
+                    { author: "author:都能有续集", title: "Tek It", cover: "https://img.picui.cn/free/2024/08/18/66c1ceb366aa9.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%AC%A2%E5%BF%AB%E6%AD%8C%E6%9B%B2/Tek%20it.txt", authorLink: "https://www.bilibili.com/video/BV1Rx4y1r7ho/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
                 ]
             },
             {
