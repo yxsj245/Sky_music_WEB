@@ -165,6 +165,12 @@ const data = {
                 scores: [
 
                 ]
+            },
+            {
+                name: "minecraft",
+                scores: [
+                    { author: "author:墨涵龙", title: "Haggstrom", cover: "https://img.picui.cn/free/2024/08/19/66c2a43562df2.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/Haggstrom.txt", authorLink: "https://www.bilibili.com/video/BV19i4y1E7Ht/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
+                ]
             }
 
             // 可以无限添加小类别
