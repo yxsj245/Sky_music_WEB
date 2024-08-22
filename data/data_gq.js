@@ -85,6 +85,7 @@ const data = {
                     { author: "作者:Sky光遇琴谱_瞳", title: "He's A Pirate-加勒比海盗", cover: "https://imgos.cn/2024/08/12/66b9a9006c82b.jpg", download: "https://xiaozhux.lanzoub.com/iMfKa27oos1c", authorLink: "" },
                     { author: "作者:未知", title: "气象站台", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://xiaozhux.lanzoub.com/irF6627oovdc", authorLink: "" },
                     { author: "作者:绵羊啊喂", title: "golden hour", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://xiaozhux.lanzoub.com/iaYdI27ooy4b", authorLink: "https://www.bilibili.com/video/BV1NR4y197jM/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
+                    { author: "作者:蜗xi最棒哒", title: "蜜雪冰城主题曲", cover: "https://img.picui.cn/free/2024/08/22/66c6dd2a23dc0.png", download: "https://xiaozhux.lanzoub.com/iAo5v284ypva", authorLink: "https://www.bilibili.com/video/BV1964y1R7BD/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
 
                 ]
             },
