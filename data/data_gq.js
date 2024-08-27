@@ -61,6 +61,7 @@ const data = {
                     { author: "作者:𝐚𝐮𝐭𝐢𝐳𝐳𝟐.", title: "悬溺", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://xiaozhux.lanzoub.com/ixtZI27onvcf", authorLink: "https://sky.wtfxxj.top/" },
                     { author: "作者:sky荼苏.", title: "Duvet", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://xiaozhux.lanzoub.com/iSfLr27rkc4d", authorLink: "https://www.bilibili.com/video/BV1oN411Y788/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
                     { author: "作者:都能有续集", title: "Tek It", cover: "https://img.picui.cn/free/2024/08/18/66c1ceb366aa9.jpg", download: "https://xiaozhux.lanzoub.com/im3ot27rld7i", authorLink: "https://www.bilibili.com/video/BV1Rx4y1r7ho/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
+                    { author: "作者:𝐚𝐮𝐭𝐢𝐳𝐳𝟐.", title: "左手指月", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://xiaozhux.lanzoub.com/iJ4QI28irgwj", authorLink: "https://sky.wtfxxj.top/" },
                 ]
             },
             {

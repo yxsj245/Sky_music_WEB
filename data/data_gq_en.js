@@ -62,6 +62,8 @@ const data = {
                     { author: "author:𝐚𝐮𝐭𝐢𝐳𝐳𝟐.", title: "悬溺", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%AC%A2%E5%BF%AB%E6%AD%8C%E6%9B%B2/%E6%82%AC%E6%BA%BAjs.txt", authorLink: "https://sky.wtfxxj.top/" },
                     { author: "author:sky荼苏.", title: "Duvet", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%AC%A2%E5%BF%AB%E6%AD%8C%E6%9B%B2/Duvet%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89.txt", authorLink: "https://www.bilibili.com/video/BV1oN411Y788/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
                     { author: "author:都能有续集", title: "Tek It", cover: "https://img.picui.cn/free/2024/08/18/66c1ceb366aa9.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E6%AC%A2%E5%BF%AB%E6%AD%8C%E6%9B%B2/Tek%20it.txt", authorLink: "https://www.bilibili.com/video/BV1Rx4y1r7ho/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
+                    { author: "author:𝐚𝐮𝐭𝐢𝐳𝐳𝟐.", title: "左手指月", cover: "https://imgos.cn/2024/08/11/66b8a30590df3.jpg", download: "https://oss.xiaozhuhome.site/Sky%E6%9B%B2%E8%B0%B1/%E8%BD%BB%E6%9D%BE%E6%AD%8C%E6%9B%B2/%E5%B7%A6%E6%89%8B%E6%8C%87%E6%9C%88.txt", authorLink: "https://sky.wtfxxj.top/" },
+
                 ]
             },
             {
