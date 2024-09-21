@@ -171,6 +171,12 @@ const data = {
                 scores: [
                     { author: "作者:墨涵龙", title: "Haggstrom", cover: "https://img.picui.cn/free/2024/08/19/66c2a43562df2.jpg", download: "https://xiaozhux.lanzoub.com/ikJrY27tbuvg", authorLink: "https://www.bilibili.com/video/BV19i4y1E7Ht/?share_source=copy_web&vd_source=c5f5824942ad78e96c57e8f7a8cd31cc" },
                 ]
+            },
+            {
+                name: "初音未来",
+                scores: [
+                    { author: "作者:仟翎陌", title: "千本樱", cover: "https://img.picui.cn/free/2024/09/21/66ee2a6937bd5.jpg", download: "https://xiaozhux.lanzoub.com/itlTa2age0xg", authorLink: "https://www.bilibili.com/video/BV1Y5411K7w3?p=2&spm_id_from=pageDriver&vd_source=3cff0f95bee88632f70c4edf887f2afc" },
+                ]
             }
 
             // 可以无限添加小类别
